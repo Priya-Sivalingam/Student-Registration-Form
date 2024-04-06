@@ -29,4 +29,8 @@ This is a Java Swing GUI application for managing student registrations, impleme
 4.Use the GUI interface to perform CRUD operations on student registrations.
 
 ##ScreenShots
+
 ![image](https://github.com/Priya-Sivalingam/Student-Registration-Form/assets/112175724/b1987d19-89db-40ea-ae68-88eb247feef5)
+
+![image](https://github.com/Priya-Sivalingam/Student-Registration-Form/assets/112175724/650f6ff4-be81-4083-8442-dbb6dd8c78e4)
+
